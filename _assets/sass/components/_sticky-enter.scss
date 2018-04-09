@@ -8,7 +8,7 @@
   padding-top: $s-4;
   padding-bottom: $s-4;
   @include page-padding();
-  background-color: rgba($grey-darker,.85);
+  background-color: rgba($white,.85);
   @include transition();
   transform: scaleY(0);
   transform-origin: bottom center;

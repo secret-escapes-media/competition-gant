@@ -35,3 +35,9 @@
   height: 66.66%;
   min-height: 400px;
 }
+
+.competition-content-wrap {
+  border-radius: 3px;
+  overflow: hidden;
+  box-shadow: 0 0 100px rgba($grey-darker,0.3);
+}
